@@ -5,3 +5,6 @@
 - UK
 - Basic knowledge of Java
 - Intermediate knowledge of Python
+- Video edtior
+
+> https://bumpyjake.com
