@@ -1,10 +1,5 @@
-### Hi there!
+## Hi there!
 
-- He/Him
-- 17
-- UK
-- Basic knowledge of Java
-- Intermediate knowledge of Python
-- Video edtior
+I used to write stuff here but then i realised i have no public repos 
 
 > https://bumpyjake.com
